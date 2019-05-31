@@ -13,7 +13,7 @@ categories: [whoami]
 
 **Contact**: {{page.contact}}
 
-**Mission**: Prevent people from ordering :pinapple: + :pizza:
+**Mission**: Prevent people from ordering :pineapple: + :pizza:
 
 ## Hack-Relevant Skills
 
