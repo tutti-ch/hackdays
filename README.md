@@ -1,4 +1,15 @@
 <section class="nes-container t-grey with-title">
+    <h2 class="title tred">About the next event</h2>
+    <ul class="nes-list is-disc">
+        <li>Pitch: 21st of June.</li>
+        <li>Main event: 26th and 27th of June.</li>
+        <li>Awards: 28th of June.</li>
+    </ul>
+</section>
+
+<i class="nes-icon is-large heart"></i>
+
+<section class="nes-container t-grey with-title">
     <h2 class="title tred">Contents</h2>
     <ul class="nes-list is-disc">
         <li><a href="./whoami">Who's Who?</a></li>
@@ -12,7 +23,7 @@
     <h2 class="title tred">Step 1: Add Yourself to the Who's Who List</h2>
     <p>Get yourself listed on <a href="/hackdays/whoami">Who am I?</a></p>
     <ol>
-        <li><code>$ git clone git@github.com:harryf/hackdays.git</code></li>
+        <li><code>$ git clone git@github.com:tutti-ch/hackdays.git</code></li>
         <li><code>$ cd ./hackdays; git checkout -b &lt;your_name&gt;</code></li>
         <li><code>$ cp ./whoami/marcello.md ./whoami/&lt;your_name&gt;.md</code></li>
         <li><code>$ vi ./whoami/&lt;your_name&gt;.md</code></li>
