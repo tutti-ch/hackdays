@@ -2,7 +2,7 @@
     <h2 class="title tred">About the next event</h2>
     <ul class="nes-list is-disc">
         <li>Pitch: 21st of June.</li>
-        <li>Main event: 26th and 27th of June.</li>
+        <li>Hacking time: 26th and 27th of June.</li>
         <li>Awards: 28th of June.</li>
     </ul>
 </section>
