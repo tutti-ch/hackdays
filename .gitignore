@@ -1,0 +1,10 @@
+.bundle
+.cache
+.DS_Store
+.sass-cache
+build/
+_site/
+.jekyll-metadata
+public/
+
+.idea
