@@ -5,13 +5,11 @@ resource: true
 categories: [hack]
 ---
 
-Spark
-==========
+# Spark
+
 Use the [`Multi-armed bandit`](https://en.wikipedia.org/wiki/Multi-armed_bandit) to select the best performing image as the main listing image for the item(s) you inserted.
 
+## Who's Participating?
 
-Who's Participating?
---------------------
-
-* [Marcello Romanelli](/tamedia-hackdays/whoami/marcello)
-* [Ciprian Ursu](/tamedia-hackdays/whoami/ciprianursu)
+- [Marcello Romanelli](/hackdays/whoami/marcello)
+- [Ciprian Ursu](/hackdays/whoami/ciprianursu)

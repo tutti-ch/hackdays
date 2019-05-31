@@ -5,15 +5,10 @@ resource: true
 categories: [hack]
 ---
 
-UTOR
-========
+# UTOR
 
-Live chat with Tutti sellers
+Live chat with tutti.ch sellers
 
+## Who's Participating?
 
-Who's Participating?
---------------------
-
-* [Adam Juras](/tamedia-hackdays/whoami/adamjuras)
-
-
+- [Adam Juras](/hackdays/whoami/adamjuras)

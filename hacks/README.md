@@ -11,7 +11,7 @@
         {% for pc in page.categories %}
             {% if pc == "hack" %}
                 <tr>
-                    <td><a href="/tamedia-hackdays{{ page.url }}">{{ page.hackname }}</a></td>
+                    <td><a href="/hackdays{{ page.url }}">{{ page.hackname }}</a></td>
                     <td>{{ page.quicksummary }}</td>
                 </tr>
             {% endif %}   <!-- cat-match-p -->
@@ -28,8 +28,8 @@
     <h2 class="title tred">Hints for Adding Your Hack</h2>
 
     <ul class="nes-list is-disc">
-        <li>Put your hack description in the /tamedia-hackdays/hacks/ directory of this git repository</li>
-        <li>You can use <a href="/tamedia-hackdays/hacks/lunchbot">this page</a> as a template. Make sure to use the meta tags at the top of the file (see the template for clues)</li>
+        <li>Put your hack description in the /hackdays/hacks/ directory of this git repository</li>
+        <li>You can use <a href="/hackdays/hacks/utor">this page</a> as a template. Make sure to use the meta tags at the top of the file (see the template for clues)</li>
     </ul>
 
 </section>

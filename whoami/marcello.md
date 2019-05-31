@@ -9,8 +9,7 @@ categories: [whoami]
 
 # Marcello Romanelli
 
-![marcello romanelli](/tamedia-hackdays/whoami/pics/marcello.png "Marcello Romanelli"){:width="400px"
-align="right"}
+![marcello romanelli](/hackdays/whoami/pics/marcello.png "Marcello Romanelli"){:width="400px" align="right"}
 
 **Contact**: {{page.contact}}
 

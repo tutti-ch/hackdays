@@ -1,118 +1,125 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta char set="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <meta name="robots" content="noindex">
-        <link rel="shortcut icon" href="https://tx.tamedia.ch/favicon.ico" />
-        <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
-        <link href="https://unpkg.com/nes.css@1.0.0/css/nes.min.css" rel="stylesheet" />
-        <!-- <link href="https://unpkg.com/nes.css/css/nes.min.css" rel="stylesheet" /> -->
-        <meta name="description" content="{{ page.title }}">
-        <title>{{ page.title }}</title>
-    </head>
-    <body>
-        <style>
-                body {
-                    padding: 0 2rem;
-                    margin: 2rem;
-                }
-                section {
-                    margin: 2rem 0 2rem 0;
-                }
-                .container:not(:last-child) {
-                    margin-bottom: 1rem;
-                }
-                i.brand {
-                    margin-right: 1rem;
-                }
-                div.containers > .container {
-                    display: inline-block;
-                    max-width: 400px;
-                }
-                .balloon.container .balloon {
-                    max-width: 600px;
-                    margin: 2rem 2rem;
-                }
-                .balloon.container .messages {
-                    display: flex;
-                    flex-direction: column;
-                }
-                .balloon.container .message {
-                    display: flex;
-                }
-                .balloon.container .message i {
-                    align-self: flex-end;
-                }
-                .balloon.container .message.-left {
-                    align-self: flex-start;
-                }
-                .balloon.container .message.-right {
-                    align-self: flex-end;
-                }
+  <head>
+    <meta char set="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="robots" content="noindex" />
+    <link rel="shortcut icon" href="https://tx.tamedia.ch/favicon.ico" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Press+Start+2P"
+      rel="stylesheet"
+    />
+    <link
+      href="https://unpkg.com/nes.css@1.0.0/css/nes.min.css"
+      rel="stylesheet"
+    />
+    <!-- <link href="https://unpkg.com/nes.css/css/nes.min.css" rel="stylesheet" /> -->
+    <meta name="description" content="{{ page.title }}" />
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <style>
+      body {
+        padding: 0 2rem;
+        margin: 2rem;
+      }
+      section {
+        margin: 2rem 0 2rem 0;
+      }
+      .container:not(:last-child) {
+        margin-bottom: 1rem;
+      }
+      i.brand {
+        margin-right: 1rem;
+      }
+      div.containers > .container {
+        display: inline-block;
+        max-width: 400px;
+      }
+      .balloon.container .balloon {
+        max-width: 600px;
+        margin: 2rem 2rem;
+      }
+      .balloon.container .messages {
+        display: flex;
+        flex-direction: column;
+      }
+      .balloon.container .message {
+        display: flex;
+      }
+      .balloon.container .message i {
+        align-self: flex-end;
+      }
+      .balloon.container .message.-left {
+        align-self: flex-start;
+      }
+      .balloon.container .message.-right {
+        align-self: flex-end;
+      }
 
-                .form.container > .field:not(:last-child) {
-                    margin-bottom: 1rem;
-                }
+      .form.container > .field:not(:last-child) {
+        margin-bottom: 1rem;
+      }
 
-                .footer {
-                    text-align: center;
-                }
-                .footer a {
-                    color: #333;
-                    text-decoration: none;
-                }
-                .tamedia-logo {
-                    width: 64px;
-                    height: 64px;
-                }
-                .tred {
-                    color: #FF0051;
-                }
-                .tgrey {
-                    color: #45546A;
-                }
-                .nowrap {
-                    white-space: nowrap;
-                }
-                .balloon.nes-container .nes-balloon {
-                    max-width: 600px;
-                    margin: 0rem 0rem 2rem 0rem;
-                }
-                .balloon.nes-container .messages {
-                    display: flex;
-                    flex-direction: column;
-                }
-                .balloon.nes-container .message {
-                    display: flex;
-                }
-                .balloon.nes-container .message i {
-                    align-self: flex-end;
-                }
-                .balloon.nes-container .message.-left {
-                    align-self: flex-start;
-                }
-                @media screen and (max-width: 768px) {
-                    body {
-                        padding: 0;
-                        margin: 2rem 0.2rem;
-                    }
-                }
-                code {
-                    color: #45546A;
-                }
+      .footer {
+        text-align: center;
+      }
+      .footer a {
+        color: #333;
+        text-decoration: none;
+      }
+      .tamedia-logo {
+        width: 64px;
+        height: 64px;
+      }
+      .tred {
+        color: #ff0051;
+      }
+      .tgrey {
+        color: #45546a;
+      }
+      .nowrap {
+        white-space: nowrap;
+      }
+      .balloon.nes-container .nes-balloon {
+        max-width: 600px;
+        margin: 0rem 0rem 2rem 0rem;
+      }
+      .balloon.nes-container .messages {
+        display: flex;
+        flex-direction: column;
+      }
+      .balloon.nes-container .message {
+        display: flex;
+      }
+      .balloon.nes-container .message i {
+        align-self: flex-end;
+      }
+      .balloon.nes-container .message.-left {
+        align-self: flex-start;
+      }
+      @media screen and (max-width: 768px) {
+        body {
+          padding: 0;
+          margin: 2rem 0.2rem;
+        }
+      }
+      code {
+        color: #45546a;
+      }
+    </style>
 
-            </style>
+    <header>
+      <h1>
+        <img
+          src="{{ site.baseurl }}/assets/images/tamedia-logo-snes.png"
+          class="tamedia-logo"
+        />
+        <a href="/hackdays/">tutti.ch Hackdays</a>
+      </h1>
+    </header>
 
-        <header>
-            <h1>
-<img src="{{site.baseurl}}/assets/images/tamedia-logo-snes.png" class="tamedia-logo" />
-                <a href="/tamedia-hackdays/">Tamedia Hackdays</a>
-            </h1>
-        </header>
-
-        {{ content }}
-
-    </body>
+    {{ content }}
+  </body>
 </html>
