@@ -2,6 +2,7 @@
 hackname: spark
 quicksummary: Select the best performing image for my listing
 resource: true
+archived: true
 categories: [hack]
 ---
 

@@ -2,6 +2,7 @@
 hackname: recommendations
 quicksummary: Try to beat gravity
 resource: true
+archived: false
 categories: [hack]
 ---
 

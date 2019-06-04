@@ -1,7 +1,9 @@
 ---
 hackname: utor
-quicksummary: Live chat with Tutti sellers
+quicksummary: Live chat with tutti.ch sellers
 resource: true
+archived: true
+award: top
 categories: [hack]
 ---
 
