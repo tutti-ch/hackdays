@@ -2,8 +2,7 @@
 hackname: email-tracking
 quicksummary: Track all emails between tutti users, deliver stats from it
 resource: true
-archived: true
-award: top
+archived: false
 categories: [hack]
 ---
 
