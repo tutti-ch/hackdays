@@ -15,3 +15,6 @@ Initially ratings could be associated with ad replies.
 ## Who's Participating?
 
 - [Marcello Romanelli](/hackdays/whoami/marcello)
+- Marko Kostovski
+
+## Stay tuned :)
