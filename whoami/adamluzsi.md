@@ -9,7 +9,7 @@ categories: [whoami]
 
 # Adam Luzsi
 
-![avatar](https://avatars1.githubusercontent.com/u/2897081 "Adam Luzsi"){:width="400px" align="right"}
+![avatar](/hackdays/whoami/pics/adamluzsi.png "Adam Luzsi"){:width="400px" align="right"}
 
 **Contact**: {{page.contact}}
 
