@@ -64,7 +64,7 @@
 
     <ul class="nes-list is-disc">
         <li>Put your hack description in the /hackdays/hacks/ directory of this git repository</li>
-        <li>You can use <a href="/hackdays/hacks/utor">this page</a> as a template. Make sure to use the meta tags at the top of the file (see the template for clues)</li>
+        <li>You can use <a href="/hackdays/hacks/dashboard">this page</a> as a template. Make sure to use the meta tags at the top of the file (see the template for clues)</li>
     </ul>
 
 </section>
