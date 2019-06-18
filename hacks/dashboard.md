@@ -6,7 +6,7 @@ archived: false
 categories: [hack]
 ---
 
-# Ratings
+# Dashboard
 
 Allow users to access and visualize data from the DWH regarding their ads. (Number of views, favorites, etc.). This could be sold as a feature for PRO users.
 
