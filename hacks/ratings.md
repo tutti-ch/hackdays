@@ -10,6 +10,10 @@ categories: [hack]
 
 Short description -> Allow users to rate eachothers
 
+## I'm on mini bacation for pitching
+
+- Therefore someone else (probably Nico) will have to present, or find someone to read out loud :D it has everything
+
 ## Who's Participating?
 
 - [Marko Kostovski](/hackdays/whoami/marko)
