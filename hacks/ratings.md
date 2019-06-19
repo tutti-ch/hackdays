@@ -42,7 +42,7 @@ It is our responsibility to provide system to make our users feel more secure wh
 ## Requirments (stolen from Serbian websites, and modified a bit) so that we know can one user rate another
 
 - Users are sending messages one to another (two-way is mandatory), it serves as a proof that there has been interaction between 2 users (this is probably going to be developed if we get extra time for project)
-- Buyer has marked his item as “SOLD”
+- Seller has marked his item as “SOLD”
 - Ratting cannot happen more then 5 days after the item has been marked as “SOLD”
 - You cannot rate user more then once every 2 weeks no matter how much items have you traded
 
