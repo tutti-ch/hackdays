@@ -13,6 +13,10 @@ Short description -> Allow users to rate eachothers
 ## Who's Participating?
 
 - [Marko Kostovski](/hackdays/whoami/marko)
+- Branko Popovic -> even tho he will not be with us in person, he thinks that rating system is great idea, and willing to contribute
+- Android dev would be good
+- We need at least one more person to handle backend
+- Anyone else who wants to work, we will have job for design, wording, project itself :D
 
 ## Problem 1
 
