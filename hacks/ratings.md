@@ -16,11 +16,11 @@ Short description -> Allow users to rate eachothers
 
 ## Problem 1
 
-Nico wants to buy a used iPhone 7 for 150 CHF, he has found item on tutti.ch and he is ready to contact the seller. However, even tho item looks great, seller is living in opposite part of the Switzerland they cannot meet in person and Nico is not sure is seller trustworthy. He is hesitating to buy an item that is not as cheap - and the clock is ticking [dramatic music playing in background]
+Nico wants to buy a used iPhone 7 for 150 CHF, he has found the item on tutti.ch and he is ready to contact the seller. However, even tho the item looks great, seller is living in opposite part of the Switzerland and they cannot meet in person. Nico is not sure is seller trustworthy. He is hesitating to buy an item that is not as cheap - and the clock is ticking [dramatic music playing in background]
 
 ## Problem 2
 
-- [Real example](/hackdays/assets/images/selda-story.png)
+- [Real example](/hackdays/assets/images/selda-story.png) (click)
 
 ## Solution
 
