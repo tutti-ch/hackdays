@@ -1,6 +1,6 @@
 ---
-hackname: Release Bot
-quicksummary: Slack bot to post release notes
+hackname: secondhandfirst
+quicksummary: Show CO2 savings
 resource: true
 archived: false
 categories: [hack]
