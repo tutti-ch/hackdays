@@ -17,4 +17,4 @@ People joining must have PhD in Natual Language Processing and 10 years experien
 
 ## Who's Participating?
 
-- [Oscar](/hackdays/whoami/dmitrii)
+- [Dmitrii](/hackdays/whoami/dmitrii)
