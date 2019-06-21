@@ -12,4 +12,5 @@ Say goodbye to boring email release notes. Say hi to the Release Bot! You'll get
 
 ## Who's Participating?
 
-- You?
+- [Alexander](/hackdays/whoami/alexander)
+
